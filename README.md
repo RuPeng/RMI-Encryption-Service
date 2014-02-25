@@ -43,9 +43,9 @@ Step 7: Now check the directory on your local disk (The directory that you set i
         
         eg. a.txt.aes   a.txt.aes.gz
         
-	.aes file is the file after encryption
-	
-	.gz file is the compressed file
+        .aes file is the file after encryption
+        
+        .gz file is the compressed file
 	
 
 Now you can delete the files a.txt and a.txt.aes, only left the file a.txt.aes.gz
